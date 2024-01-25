@@ -17,6 +17,22 @@ html, body {
     color: #ffffff;
     color: black;
   }
+
+  .page-footer {
+    display: flex;
+  }
+
+  .flex-footer-left {
+    padding-right: 50px;
+  }
+
+  .flex-footer-middle {
+    padding-right: 50px;
+  }
+
+  .flex-footer-right {
+    float: right;
+  }
   
   main.page-body {
     flex-grow: 1; /*Takes The Avaible Place*/
