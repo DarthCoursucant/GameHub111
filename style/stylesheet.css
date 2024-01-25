@@ -36,7 +36,12 @@ html, body {
   }
 
   .flex-footer-right {
-    float: right;
+    padding-right: 200px;
+  }
+
+  .flex-footer-right-right img {
+    height: 30px;
+    width: 30px;
   }
   
   main.page-body {
