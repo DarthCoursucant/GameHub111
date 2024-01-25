@@ -22,6 +22,11 @@ html, body {
     display: flex;
   }
 
+  .page-footer a {
+    text-decoration: none;
+    color: #ed0404
+  }
+
   .flex-footer-left-left {
     padding-left: 20px;
     padding-right: 180px;
