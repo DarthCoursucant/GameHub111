@@ -22,12 +22,17 @@ html, body {
     display: flex;
   }
 
+  .flex-footer-left-left {
+    padding-left: 20px;
+    padding-right: 200px;
+  }
+
   .flex-footer-left {
-    padding-right: 50px;
+    padding-right: 200px;
   }
 
   .flex-footer-middle {
-    padding-right: 50px;
+    padding-right: 200px;
   }
 
   .flex-footer-right {
